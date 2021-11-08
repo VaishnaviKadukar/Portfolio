@@ -1,0 +1,47 @@
+/* Write a code to create portfolio using HTML,CSS & BOOTSTRAP */
+/* Code written by vaishnavi kadukar  */
+
+/*this code for background and font*/
+body{ 
+    background: linear-gradient(rgb(59, 34, 199) ,rgb(211, 37, 66));
+    font-family: 'Righteous';
+  }
+
+/*this code for main container*/
+ .maincontainer{
+
+    background-color: white;
+    height:450px;
+    width:800px;
+    margin: auto; 
+    margin-top: 60px;
+    border-radius: 20px; 
+ }
+
+/*this code for container items*/
+ .containeritem{
+   padding-top: 40px;
+   padding-left:40px;
+   padding-right: 40px;
+   padding-bottom:40px;
+}
+
+/*this code for big tag*/
+big{
+   color:rgb(59, 34, 199);
+}
+
+/*this code for move text from left side*/
+.hos1{
+   margin-left: 50px;
+}
+.hos2{
+   margin-left: 40px;
+}
+
+/*this code for title*/
+.title{
+   color:white;
+   margin-top: 80px;
+   text-align: center;
+ }
